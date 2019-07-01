@@ -1,5 +1,5 @@
 /**
- *  nav.js
+ *  nav-vis.js
  *  this is a custom looker vis for rendering bootstrap nav pills
  *
  *  usage - configure looker vis settings as below
